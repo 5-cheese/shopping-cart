@@ -1,4 +1,5 @@
 # shoppingcart
+第一次尝试将vue项目上传到github
 
 ## Project setup
 ```
